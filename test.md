@@ -2,6 +2,8 @@
 
 Diagramme de séquence pour le sujet :  
 
+[A lire](README.md)
+
 ```mermaid
 sequenceDiagram
     participant dotcom
